@@ -1,0 +1,54 @@
+D:\CNTT Năm 3\LẬP TRÌNH WEB\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\bin\ShopGiayNhom09.dll.config
+D:\CNTT Năm 3\LẬP TRÌNH WEB\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\bin\ShopGiayNhom09.dll
+D:\CNTT Năm 3\LẬP TRÌNH WEB\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\bin\ShopGiayNhom09.pdb
+D:\CNTT Năm 3\LẬP TRÌNH WEB\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Helpers.dll
+D:\CNTT Năm 3\LẬP TRÌNH WEB\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Mvc.dll
+D:\CNTT Năm 3\LẬP TRÌNH WEB\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Razor.dll
+D:\CNTT Năm 3\LẬP TRÌNH WEB\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Webpages.Deployment.dll
+D:\CNTT Năm 3\LẬP TRÌNH WEB\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Webpages.dll
+D:\CNTT Năm 3\LẬP TRÌNH WEB\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Webpages.Razor.dll
+D:\CNTT Năm 3\LẬP TRÌNH WEB\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Razor.xml
+D:\CNTT Năm 3\LẬP TRÌNH WEB\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Webpages.xml
+D:\CNTT Năm 3\LẬP TRÌNH WEB\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Webpages.Deployment.xml
+D:\CNTT Năm 3\LẬP TRÌNH WEB\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Webpages.Razor.xml
+D:\CNTT Năm 3\LẬP TRÌNH WEB\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Helpers.xml
+D:\CNTT Năm 3\LẬP TRÌNH WEB\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Mvc.xml
+D:\CNTT Năm 3\LẬP TRÌNH WEB\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\obj\Debug\ShopGiayNhom09.dll
+D:\CNTT Năm 3\LẬP TRÌNH WEB\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\obj\Debug\ShopGiayNhom09.pdb
+D:\CNTT Năm 3\LẬP TRÌNH WEB\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\obj\Debug\ShopGiayNhom09.csprojResolveAssemblyReference.cache
+C:\Users\TRUONG DAT\Desktop\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\bin\ShopGiayNhom09.dll.config
+C:\Users\TRUONG DAT\Desktop\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\bin\ShopGiayNhom09.dll
+C:\Users\TRUONG DAT\Desktop\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\bin\ShopGiayNhom09.pdb
+C:\Users\TRUONG DAT\Desktop\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Helpers.dll
+C:\Users\TRUONG DAT\Desktop\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Mvc.dll
+C:\Users\TRUONG DAT\Desktop\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Razor.dll
+C:\Users\TRUONG DAT\Desktop\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Webpages.Deployment.dll
+C:\Users\TRUONG DAT\Desktop\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Webpages.dll
+C:\Users\TRUONG DAT\Desktop\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Webpages.Razor.dll
+C:\Users\TRUONG DAT\Desktop\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Razor.xml
+C:\Users\TRUONG DAT\Desktop\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Webpages.xml
+C:\Users\TRUONG DAT\Desktop\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Webpages.Deployment.xml
+C:\Users\TRUONG DAT\Desktop\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Webpages.Razor.xml
+C:\Users\TRUONG DAT\Desktop\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Helpers.xml
+C:\Users\TRUONG DAT\Desktop\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Mvc.xml
+C:\Users\TRUONG DAT\Desktop\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\obj\Debug\ShopGiayNhom09.csprojResolveAssemblyReference.cache
+C:\Users\TRUONG DAT\Desktop\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\obj\Debug\ShopGiayNhom09.dll
+C:\Users\TRUONG DAT\Desktop\Nhom09_WebsiteQuanLyBanGiaySneaker\ShopGiayNhom09\ShopGiayNhom09\obj\Debug\ShopGiayNhom09.pdb
+C:\Users\TRUONG DAT\Desktop\09_Website quản lý bán giày thể thao Sneaker\ShopGiayNhom09\ShopGiayNhom09\bin\ShopGiayNhom09.dll.config
+C:\Users\TRUONG DAT\Desktop\09_Website quản lý bán giày thể thao Sneaker\ShopGiayNhom09\ShopGiayNhom09\bin\ShopGiayNhom09.dll
+C:\Users\TRUONG DAT\Desktop\09_Website quản lý bán giày thể thao Sneaker\ShopGiayNhom09\ShopGiayNhom09\bin\ShopGiayNhom09.pdb
+C:\Users\TRUONG DAT\Desktop\09_Website quản lý bán giày thể thao Sneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Helpers.dll
+C:\Users\TRUONG DAT\Desktop\09_Website quản lý bán giày thể thao Sneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Mvc.dll
+C:\Users\TRUONG DAT\Desktop\09_Website quản lý bán giày thể thao Sneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Razor.dll
+C:\Users\TRUONG DAT\Desktop\09_Website quản lý bán giày thể thao Sneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Webpages.Deployment.dll
+C:\Users\TRUONG DAT\Desktop\09_Website quản lý bán giày thể thao Sneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Webpages.dll
+C:\Users\TRUONG DAT\Desktop\09_Website quản lý bán giày thể thao Sneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Webpages.Razor.dll
+C:\Users\TRUONG DAT\Desktop\09_Website quản lý bán giày thể thao Sneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Razor.xml
+C:\Users\TRUONG DAT\Desktop\09_Website quản lý bán giày thể thao Sneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Webpages.xml
+C:\Users\TRUONG DAT\Desktop\09_Website quản lý bán giày thể thao Sneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Webpages.Deployment.xml
+C:\Users\TRUONG DAT\Desktop\09_Website quản lý bán giày thể thao Sneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Webpages.Razor.xml
+C:\Users\TRUONG DAT\Desktop\09_Website quản lý bán giày thể thao Sneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Helpers.xml
+C:\Users\TRUONG DAT\Desktop\09_Website quản lý bán giày thể thao Sneaker\ShopGiayNhom09\ShopGiayNhom09\bin\System.Web.Mvc.xml
+C:\Users\TRUONG DAT\Desktop\09_Website quản lý bán giày thể thao Sneaker\ShopGiayNhom09\ShopGiayNhom09\obj\Debug\ShopGiayNhom09.csprojResolveAssemblyReference.cache
+C:\Users\TRUONG DAT\Desktop\09_Website quản lý bán giày thể thao Sneaker\ShopGiayNhom09\ShopGiayNhom09\obj\Debug\ShopGiayNhom09.dll
+C:\Users\TRUONG DAT\Desktop\09_Website quản lý bán giày thể thao Sneaker\ShopGiayNhom09\ShopGiayNhom09\obj\Debug\ShopGiayNhom09.pdb

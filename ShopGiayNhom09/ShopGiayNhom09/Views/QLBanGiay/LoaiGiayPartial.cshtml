@@ -1,0 +1,15 @@
+﻿@using  ShopGiayNhom09.Models;
+@model List<LoaiGiay>
+
+<ul class="list-group list-group-flush text-left">
+    <li class="list-group-item" style="background-color:lightblue">
+        <a href="/QLBanGiay/showALLSanPham" style="text-transform:uppercase; text-decoration:none; color:white; font-weight:bold;">THƯƠNG HIỆU</a>
+    </li>
+    @foreach (var item in Model)
+    {
+        <li class="list-group-item">
+            <a href="@Url.Action("giayTheoLoai", "QLBanGiay", new { @maLoai = item.MaLoai })" style="text-transform:uppercase;">@item.TenLoai</a>
+        </li>
+    }
+</ul>
+

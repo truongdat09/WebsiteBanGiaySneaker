@@ -1,0 +1,15 @@
+﻿@using ShopGiayNhom09.Models;
+@model List<Gender>
+
+<ul class="list-group list-group-flush text-left">
+    <li class="list-group-item" style="background-color:lightblue;">
+        <a href="/QLBanGiay/showALLSanPham" style="text-transform:uppercase; text-decoration:none; color:white; font-weight:bold;">GENDER</a>
+    </li>
+    @foreach (var item in Model)
+    {
+        <li class="list-group-item">
+            <a href="@Url.Action("giayTheoGender", "QLBanGiay", new { @maGender = item.MaGender })" style="text-transform:uppercase;">@item.Gender1</a>
+        </li>
+    }
+</ul>
+

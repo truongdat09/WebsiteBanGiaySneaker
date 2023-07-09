@@ -1,0 +1,49 @@
+﻿
+@{
+    ViewBag.Title = "xemChiTiet";
+    Layout = "~/Views/Shared/_LayoutPage2.cshtml";
+}
+
+<h1 style="color:blue;"><i>Chi tiết sản phẩm</i></h1>
+
+@model ShopGiayNhom09.Models.Giay
+<div class="card border-dark">
+    <table class="border-dark mx-3 mb-3 mt-3">
+        <tr class="text-left">
+            <td rowspan="5" width="45%">
+                <img class="card-header" src="@Url.Content("~/imgSP/"+Model.AnhBia)" width="100%" height="70%" alt="Image" />
+            </td>
+            <td width="20%">Sản Phẩm: </td>
+            <td width="35%" style="font-weight:bold; color:blue">@Model.TenGiay</td>
+        </tr>
+        <tr class="text-left">
+            <td>Thương Hiệu: </td>
+            <td style="color:blue">@Model.LoaiGiay.TenLoai</td>
+        </tr>
+        <tr class="text-left">
+            <td>Gender: </td>
+            <td style="color:blue">@Model.Gender.Gender1</td>
+        </tr>
+        <tr class="text-left">
+            <td>Mô tả sản phẩm: </td>
+            <td class="text-justify"><b>@Model.MoTa</b></td>
+        </tr>
+        <tr class="text-left">
+            <td>Giá Bán: </td>
+            <td style="font-weight:bold; color:#ff0000;">@string.Format("{0:0,0}", @Model.GiaBan) VNĐ</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="@Url.Action("ThemGioHang", "GioHang", new { @mag = Model.MaGiay, @strURL = Request.Url.ToString()})">
+                    <input type="button" value="Thêm Vào Giỏ Hàng" class="btn btn-primary"  />
+                </a>
+                <a href="@Url.Action("showALLSanPham","QLBanGiay")">
+                    <input type="button" value="Mua Tiếp" class="btn btn-primary" />
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
+
+
+

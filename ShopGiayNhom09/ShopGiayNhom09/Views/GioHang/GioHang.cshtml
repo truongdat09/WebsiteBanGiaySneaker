@@ -1,0 +1,53 @@
+﻿
+@{
+    ViewBag.Title = "GioHang";
+    Layout = "~/Views/Shared/_LayoutPage2.cshtml";
+}
+@using ShopGiayNhom09.Models;
+@model List<GioHang>
+    <h1 style="color:blue;"><i>Giỏ hàng của bạn</i></h1>
+    <div class="card border-dark">
+        <table class="table">
+            <tr style="background-color:none;">
+                <th>Mã Giày</th>
+                <th>Tên Giày</th>
+                <th>Ảnh</th>
+                <th>Số Lượng</th>
+                <th>Đơn Giá</th>
+                <th>Thành Tiền</th> 
+                <th>Hủy sản phẩm</th>    
+                <th>Xem chi tiết</th> 
+                <th>Cập nhật lại</th>           
+                
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td width="20%">@item.iMaGiay</td>
+                    <td width="30%">@item.sTenGiay</td>
+                    <td width="20%"><img src="~/imgSP/@item.sAnhBia" width="100%"></td>
+                    @using (Html.BeginForm("capNhat", "GioHang", new { @mag = item.iMaGiay }))
+                    {
+                        <td width="12%"><input type="number" name="txtSoLuong" value="@item.iSoLuong" min="1" size="2" /></td>
+                        <td width="20%">@string.Format("{0:0,0}", @item.dDonGia)</td>
+                        <td width="30%">@string.Format("{0:0,0}", @item.dThanhTien) VNĐ</td>
+                        <td>@Html.ActionLink("Hủy", "XoaGioHang", new { @Mag = item.iMaGiay })</td>
+                        <td><a href="@Url.Action("xemChiTiet", "QLBanGiay", new { @maGiay = item.iMaGiay})">Xem</a></td>
+                        <td><input type="submit" value="Cập Nhật" class="btn btn-primary" /></td>
+                    }
+                </tr>
+            }
+            <tr style="background-color:none;">
+                <td colspan="3" style="color:blue; font-weight:bold;text-align:left;">Tổng cộng: </td>
+                <td style="color:red; font-weight:bold;">@ViewBag.TongSoLuong Đôi</td>
+                <td</td>
+                <td style="color:red; font-weight:bold;">@string.Format("{0:0,0}", ViewBag.TongThanhTien) VNĐ</td>
+            </tr>
+        </table>
+        @*<th>@Html.ActionLink("Hủy Giỏ Hàng", "XoaAll", "GioHang")</th>*@
+        <p><a href="@Url.Action("XoaAll","GioHang")" class="btn btn-primary">Hủy Giỏ Hàng</a></p>
+        <p><a href="@Url.Action("DangNhap","NguoiDung")" class="btn btn-primary">Đặt Hàng</a></p>
+        @*<th>@Html.ActionLink("Đặt Hàng", "DangNhap", "NguoiDung")</th>*@
+    </div>
+
+
